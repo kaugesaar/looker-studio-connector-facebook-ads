@@ -1,0 +1,20 @@
+{
+  "timeZone": "Europe/Bucharest",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "OAuth2",
+      "libraryId": "1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF",
+      "version": "32"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "dataStudio": {
+    "name": "Facebook Ads Connector",
+    "logoUrl": "https://sv-se.facebookbrand.com/wp-content/uploads/2016/05/flogo_rgb_hex-brc-site-250.png",
+    "company": "Victor Kaugesaar",
+    "addonUrl": "https://github.com/kaugesaar/looker-studio-connector-facebook-ads",
+    "supportUrl": "https://github.com/kaugesaar/looker-studio-connector-facebook-ads/issues",
+    "description": "This connector can be used to retrieve data from insights report api."
+  },
+  "runtimeVersion": "V8"
+}
