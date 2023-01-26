@@ -16,7 +16,7 @@ I'll update the how-to but meanwhile, the short version:
 - Download and push the source code to your script project
     - `clasp create --title your-title --type standalone`
     - `clasp push`
-- Within the script project setting
+- Within the script's project setting page (at script.google.com)
     - Set the script properties `fb_client_id` and `fb_client_secret`
     - At the same page, set your GCP Project Number
 - Open up https://console.cloud.google.com/apis/credentials/consent?project=*GCP_PROJECT_NUMBER*
