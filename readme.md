@@ -1,13 +1,15 @@
-# Looker Studio connector for Facebook Ads
+# Looker Studio connector for Meta Ads
 
-Run your own Looker Studio connector for Facebook Ads.
+Run your own Looker Studio connector for Meta Ads.
 
-## How to get started
 
-Prerequisite:
-- clasp
-- gcp-project
-- facebook app (with facebook login and marketing api)
+### Prerequisite:
+
+- [clasp](https://github.com/google/clasp)
+- [gcp-project](https://console.cloud.google.com/)
+- [facebook app](https://developers.facebook.com) (with facebook login and marketing api)
+
+### How to get started
 
 I'll update the how-to but meanwhile, the short version:
 
