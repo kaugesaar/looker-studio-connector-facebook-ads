@@ -1,6 +1,6 @@
-# Looker Studio connector for Meta Ads
+# Looker Studio connector for Facebook Ads
 
-Run your own Looker Studio connector for Meta Ads.
+Run your own Looker Studio connector for Facebook Ads.
 
 
 ### Prerequisite:
